@@ -1,0 +1,32 @@
+.title("Java Fullstack")
+.beginDate(LocalDate.of(2022, 10, 24))
+.endDate(LocalDate.of(2023, 1, 27))
+.poeType(PoeType.POEI)
+
+
+.title("Java Fullstack")
+.beginDate(LocalDate.of(2022, 11, 2))
+.endDate(LocalDate.of(2023, 2, 3))
+.poeType(PoeType.POEC)
+
+.title("Consultant Devops")
+.beginDate(LocalDate.of(2022, 6, 13))
+.endDate(LocalDate.of(2022, 9, 16))
+.poeType(PoeType.POEC)
+
+.title("Consultant Cyber Sécurité")
+.beginDate(LocalDate.of(2021, 9, 13))
+.endDate(LocalDate.of(2021, 11, 16))
+.poeType(PoeType.POEI)
+
+.title("Consultant SAP")
+.beginDate(LocalDate.of(2022, 4, 13))
+.endDate(LocalDate.of(2022, 8, 16))
+.poeType(PoeType.POEI)
+
+
+.title("Consultant BI")
+.beginDate(LocalDate.of(2022, 9, 24))
+.endDate(LocalDate.of(2022, 11, 23))
+.poeType(PoeType.POEI)
+.build()

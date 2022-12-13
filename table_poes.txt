@@ -1,0 +1,18 @@
+-- Table: public.poes
+
+-- DROP TABLE IF EXISTS public.poes;
+
+CREATE TABLE IF NOT EXISTS public.poes
+(
+    id integer NOT NULL DEFAULT nextval('poes_id_seq'::regclass),
+    title character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    begin_date date NOT NULL,
+    end_date date NOT NULL,
+    poe_type character(4) COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT poes_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.poes
+    OWNER to poe;

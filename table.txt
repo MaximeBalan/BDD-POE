@@ -1,0 +1,14 @@
+CREATE TABLE public.trainees
+(
+    id serial,
+    lastname character varying(50) NOT NULL,
+    firstname character varying(50) NOT NULL,
+    gender character(1),
+    birthdate date NOT NULL,
+    email character varying(100) NOT NULL,
+    phone_number character varying(15),
+    PRIMARY KEY (id)
+);
+
+ALTER TABLE IF EXISTS public.trainees
+    OWNER to poe;
