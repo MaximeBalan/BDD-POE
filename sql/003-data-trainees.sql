@@ -46,6 +46,10 @@ INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_numbe
     VALUES ('Miaou', 'Spatule', '2000-11-06', 'jaimelacroquette@miaou.fr', 'X', '0696385274',7);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
     VALUES ('Africa', 'Toto', '1975-05-11', 'toto.africa@music.fr', 'M', '0798762453', 7);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Lanore-Lié', 'Oriane', '1991-07-14', 'lieoriane@gmail.com', 'F', '0607080910', 8);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Lanore-Lié', 'Sébastien', '1991-02-12', 'seb.lanore@gmail.com', 'M', '0798762457', 8);
 
 
 

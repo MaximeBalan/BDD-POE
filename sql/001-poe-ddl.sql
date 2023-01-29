@@ -9,6 +9,9 @@ CREATE TABLE IF NOT EXISTS poes
     begin_date date NOT NULL,
     end_date date NOT NULL,
     poe_type character varying(10) NOT NULL,
+    survey_one_month_date date,
+    survey_six_month_date date, 
+    survey_twelve_month_date date,  
     CONSTRAINT pk_poes PRIMARY KEY (id)
 );
 
