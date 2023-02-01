@@ -33,7 +33,7 @@ INSERT INTO choices (name, question_id)
 	VALUES ('Plutôt bien', 10);
 --choix 11
 INSERT INTO choices (name, question_id)
-	VALUES ('Plutôt pas mal', 10);
+	VALUES ('Plutôt pas bien', 10);
 --choix 12
 INSERT INTO choices (name, question_id)
 	VALUES ('Cela ne s''est pas bien passé', 10);
@@ -46,7 +46,7 @@ INSERT INTO choices (name, question_id)
 	VALUES ('Plutôt bien', 11);
 --choix 15
 INSERT INTO choices (name, question_id)
-	VALUES ('Plutôt pas mal', 11);
+	VALUES ('Plutôt pas bien', 11);
 --choix 16
 INSERT INTO choices (name, question_id)
 	VALUES ('Cela ne s''est pas bien passé', 11);

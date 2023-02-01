@@ -16,6 +16,12 @@ INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_numbe
 	VALUES ('Solo', 'Han', '1965-07-6', 'han@solo.fr', 'M','+336147258390', 2);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
     VALUES ('polo', 'Jean', '1969-05-24', 'jean.@dodo.org','M','++336987654321', 2);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Rousseau', 'Jean-Jacques', '1959-09-25', 'jean.jeacques@gmail.ocom','M','++33698768917', 2);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Lucky', 'Luc', '1947-05-25', 'jollyjumper@gmail.ocom','M','++33698758987', 2);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Tin', 'Tin', '1978-04-05', 'milou@gmail.ocom','M','++33698756874', 2);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id) 
 	VALUES ('Perrin','Maxime','2001-03-14','Saucissedu93@gmail.com', 'M','+336121212123', 3);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
@@ -27,11 +33,13 @@ INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_numbe
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
     VALUES ('Captain', 'Marvel', '1969-05-31', 'captain@marvel.org', 'F', '+330102030407', 4);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
-    VALUES ('Sivoyon', 'Maeliss', '1991-01-18', 'sivoyon@maeliss.org', 'F', '+330102030409', 4);
+    VALUES ('Sandre', 'Chantal', '1991-09-18', 's.chantal@maeliss.org', 'F', '+330102031989', 4);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
     VALUES ('Nebra', 'Mathieu', '1975-02-12', 'mathieu@nebra.org', 'M', '+330102030410', 5);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
     VALUES ('Egypte', 'Isis', '2002-08-03', 'egypte@isis.org', 'F', '+330102030411', 5);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Isis', 'Nefertiti', '1958-04-01', 'nefertit@gmail.com', 'F', '+33659874254', 5);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
     VALUES ('Robie', 'Margot', '1985-12-24', 'robie@margot.org', 'F', '+330102030412', 5);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
@@ -47,9 +55,18 @@ INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_numbe
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
     VALUES ('Africa', 'Toto', '1975-05-11', 'toto.africa@music.fr', 'M', '0798762453', 7);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
-    VALUES ('Lanore-Lié', 'Oriane', '1991-07-14', 'lieoriane@gmail.com', 'F', '0607080910', 8);
+    VALUES ('Lanore-Lié', 'Oriane', '1991-07-14', 'lieoriane@gmail.com', 'F', '0607080910', 9);
 INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
-    VALUES ('Lanore-Lié', 'Sébastien', '1991-02-12', 'seb.lanore@gmail.com', 'M', '0798762457', 8);
+    VALUES ('Sivoyon', 'Maëliss', '1991-01-18', 'maeliss-sivoyon@hotmail.fr', 'M', '0798762457', 8);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Weishar', 'Damien', '1991-07-22', 'damienweishar@gmail.com', 'M', '0596789257', 8);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Balan', 'Maxime', '1991-08-07', 'maxime.balan@gmail.com', 'M', '0689742598', 8);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Alaguin', 'Anthony', '1995-11-15', 'alaguin25@gmail.com', 'M', '0625896321', 8);
+INSERT INTO trainees (lastname, firstname, birthdate, email, gender, phone_number, poe_id)
+    VALUES ('Présentation', 'Test', '1996-05-11', 'formateur.poe.aelion@gmail.com', 'M', '0612365478', 9);
+
 
 
 

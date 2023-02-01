@@ -20,4 +20,7 @@ INSERT INTO poes (title, begin_date, end_date,poe_type)
 	VALUES ('Java Fullstack', '2022-07-02', '2022-10-20', 'POEC');
 
 INSERT INTO poes (title, begin_date, end_date,poe_type)
-	VALUES ('POE Demo', '2022-08-02', '2022-11-20', 'POEC');
+	VALUES ('POE Indevstructibles', '2022-08-02', '2022-11-20', 'POEC');
+
+INSERT INTO poes (title, begin_date, end_date,poe_type)
+	VALUES ('POE Indevstructibles', '2022-02-02', '2022-05-20', 'POEI');

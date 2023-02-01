@@ -24,35 +24,35 @@ INSERT INTO questions (title, question_type)
 	VALUES ('Êtes-vous actuellement en emploi ?', 'YES_NO');
 --Q8
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à Q1, depuis combien de temps ?', 'FREE_RESPONSE');
+	VALUES ('Depuis combien de temps êtes vous en emploi?', 'FREE_RESPONSE');
 --Q9
 INSERT INTO questions (title, question_type)
 	VALUES ('Si non à Q1, avez-vous des processus de recrutement en cours ?' ,'YES_NO');
 --Q10
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à Q1, comment s''est passé votre processus d''intégration dans l''entreprise ?', 'QCM');
+	VALUES ('Les prochaines questions ne sont valables que si vous avez répondu oui à Q1. Comment s''est passé votre processus d''intégration dans l''entreprise ?', 'QCM');
 --Q11
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à Q1, et que vous êtes basés chez le client, comment s''y est passée votre intégration ?', 'QCM');
+	VALUES ('Si vous êtes basés chez le client, comment s''y est passée votre intégration ?', 'QCM');
 --Q12
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à Q1, êtes-vous satisfait des missions confiées?', 'QCM');
+	VALUES ('Etes-vous satisfait des missions confiées?', 'QCM');
 --Q13
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à Q1, les missions confiées correspondent-elles à la formation que vous avez reçue ?', 'QCM');
+	VALUES ('Les missions confiées correspondent-elles à la formation que vous avez reçue ?', 'QCM');
 --Q14
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à Q1, comment évaluerez-vous votre accompagnement sur vos projets (tuteur, manager, équipe projet...) ?', 'QCM');
+	VALUES ('Comment évaluerez-vous votre accompagnement sur vos projets (tuteur, manager, équipe projet...) ?', 'QCM');
 --Q15
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à la Q1,  comment évaluez-vous votre relation avec l''équipe projet ?' ,'QCM');
+	VALUES ('Comment évaluez-vous votre relation avec l''équipe projet ?' ,'QCM');
 --Q16
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à Q1, comment évaluez-vous votre relation avec votre Employeur ?', 'QCM');
+	VALUES ('Comment évaluez-vous votre relation avec votre Employeur ?', 'QCM');
 --Q17
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à la Q1,  et que vous êtes basé chez le Client, comment évaluez-vous votre relation avec votre manager Client ?', 'QCM');
+	VALUES ('Si vous êtes basé chez le Client, comment évaluez-vous votre relation avec votre manager Client ?', 'QCM');
 --Q18
 INSERT INTO questions (title, question_type)
-	VALUES ('Si oui à Q1,  avez-vous été intégré avec un autre membre de votre promotion POE ?', 'YES_NO');
+	VALUES ('Avez-vous été intégré avec un autre membre de votre promotion POE ?', 'YES_NO');
 
