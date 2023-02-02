@@ -27,10 +27,10 @@ INSERT INTO questions (title, question_type)
 	VALUES ('Depuis combien de temps êtes vous en emploi?', 'FREE_RESPONSE');
 --Q9
 INSERT INTO questions (title, question_type)
-	VALUES ('Si non à Q1, avez-vous des processus de recrutement en cours ?' ,'YES_NO');
+	VALUES ('Si vous n''êtes pas en emploi, avez-vous des processus de recrutement en cours ?' ,'YES_NO');
 --Q10
 INSERT INTO questions (title, question_type)
-	VALUES ('Les prochaines questions ne sont valables que si vous avez répondu oui à Q1. Comment s''est passé votre processus d''intégration dans l''entreprise ?', 'QCM');
+	VALUES ('Comment s''est passé votre processus d''intégration dans l''entreprise ?', 'QCM');
 --Q11
 INSERT INTO questions (title, question_type)
 	VALUES ('Si vous êtes basés chez le client, comment s''y est passée votre intégration ?', 'QCM');
